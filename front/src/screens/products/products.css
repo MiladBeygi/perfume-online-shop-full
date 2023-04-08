@@ -1,0 +1,7 @@
+.pagination button:focus {
+    background-color: #c1c2c3;
+}
+
+.pagination button {
+    color: black;
+}

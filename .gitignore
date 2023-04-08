@@ -1,0 +1,28 @@
+back/package-lock.json
+back/node_modules/*
+
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+front/node_modules
+front/.pnp
+front/.pnp.js
+
+# testing
+front/coverage
+
+# production
+front/build
+
+# misc
+front/.DS_Store
+front/.env.local
+front/.env.development.local
+front/.env.test.local
+front/.env.production.local
+
+fornt/npm-debug.log*
+fornt/yarn-debug.log*
+fornt/yarn-error.log*
